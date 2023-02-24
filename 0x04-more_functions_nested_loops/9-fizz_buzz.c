@@ -27,8 +27,14 @@ int main(void) {
         {
             printf("%s", "Buzz");
         }else{
+
             printf(%d, x);
         }
+
+	if (x != 100)
+		{
+		printf(" ");
+		}
         
     }
    prinf("\n")
