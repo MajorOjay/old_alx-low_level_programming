@@ -16,7 +16,7 @@ int main(void) {
 
     int x = 1;
 
-    for (x = 1; x < 101; i++){
+    for (x = 1; x < 101; x++){
         if (x % 3 == 0)
         {
             printf("%s", "Fizz");
