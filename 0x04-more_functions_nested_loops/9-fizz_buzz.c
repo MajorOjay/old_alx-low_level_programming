@@ -14,7 +14,7 @@
 
 int main(void) {
 
-    x = 1;
+    int x = 1;
 
     for (x = 1; x < 101; i++){
         if (x % 3 == 0)
