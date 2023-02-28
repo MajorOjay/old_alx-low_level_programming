@@ -1,0 +1,1 @@
+dealing witrh pointers
