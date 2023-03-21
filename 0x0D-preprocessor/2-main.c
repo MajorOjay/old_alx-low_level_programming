@@ -9,6 +9,6 @@
 
 int main(void)
 {
-    putchar ("%s\n", __FILE__);
+   fprintf("%s\n", __FILE__);
 	return (0);
 }
